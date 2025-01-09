@@ -38,7 +38,7 @@ defaults:
       layout: splash
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
