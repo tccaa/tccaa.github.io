@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Events"
+    url: /events/
+  - title: "Notices"
+    url: /posts/
+  - title: "Archived website"
+    url: https://tccaanet.wixsite.com/tccaa_new/home/
+  - title: "English"
+    url: /
+    lang: en
+    classes: "lang-toggle"
+  - title: "中文"
+    url: /zh/
+    lang: zh
+    classes: "lang-toggle"

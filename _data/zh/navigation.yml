@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "关于我们"
+    url: /zh/about/
+  - title: "活动"
+    url: /zh/events/
+  - title: "公告"
+    url: /zh/posts/
+  - title: "旧版网站"
+    url: https://tccaanet.wixsite.com/tccaa_new/home/
+  - title: "English"
+    url: /
+    lang: en
+    classes: "lang-toggle"
+  - title: "中文"
+    url: /zh/
+    lang: zh
+    classes: "lang-toggle"
