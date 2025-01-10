@@ -1,0 +1,23 @@
+# Jekyll generated site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+.bundle/
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
