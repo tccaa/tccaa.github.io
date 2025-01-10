@@ -38,9 +38,11 @@ defaults:
       layout: splash
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 languages:
   - en
