@@ -9,4 +9,4 @@ header:
   overlay_image: /assets/images/header.png # Path to your image
 ---
 
-This is the content of the splash page, which will appear below the splash layout.
+<img src="/assets/images/events/2025_SF_en.JPG" alt="Centered Image" style="display: block; margin: 0 auto;" width="400">
