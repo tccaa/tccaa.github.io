@@ -6,8 +6,11 @@ permalink: /zh/about/
 
 # 关于三镇华人历史
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/KcVlMTHDaj4" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 500px; margin: 0 auto;">
+  <div style="padding-top: 56.25%; position: relative; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            src="https://www.youtube.com/embed/KcVlMTHDaj4" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 第一波華人移民到三鎮地區始於70年代早期，就在美國原子委員會決定建造FFTF之後；從此華人在三鎮社區裡穩定地成長。三鎮華人社區的發展壯大始於90年代初期，一批接著一批的中國工程師、科學家、博士後研究者和其他的專業人員紛紛在三鎮地區建立起家園。

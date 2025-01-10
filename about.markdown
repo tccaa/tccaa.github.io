@@ -6,8 +6,11 @@ permalink: /about/
 
 # About the Tri-Cities Chinese American Association
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/KcVlMTHDaj4" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 500px; margin: 0 auto;">
+  <div style="padding-top: 56.25%; position: relative; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            src="https://www.youtube.com/embed/KcVlMTHDaj4" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 The first wave of Chinese emigration to Tri-Cites started in early 70s, right after US atomic commission decision of building the FFTF. Ever since, the Tri-Cities Chinese community has grown steadily.  The proliferation of the Tri-Cities Chinese community started in early 90s. A wave after another of Chinese engineers, scientists, post-doctors and other professionals have found their homes in Tri-Cities.
