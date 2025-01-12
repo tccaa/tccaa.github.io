@@ -16,3 +16,18 @@ search: false
     background-color: #d3d3d3;
     color: #fff;
   }
+
+.page__hero--overlay {
+  position: relative;
+  width: 100%; 
+  margin-bottom: 2em;
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-animation: intro 0.3s both;
+  animation: intro 0.3s both;
+  -webkit-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+  }

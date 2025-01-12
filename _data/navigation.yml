@@ -6,6 +6,10 @@ main:
     url: /events/
   - title: "Notices"
     url: /posts/
+  - title: "Youtube"
+    url: https://www.youtube.com/channel/UCAH-4bnQb4ws8VEWj3vWreA
+  - title: "Photos"
+    url: /photos/
   - title: "Archived website"
     url: https://tccaanet.wixsite.com/tccaa_new/home/
   - title: "English"
