@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Events"
-    url: /events/
-  - title: "Notices"
+  - title: "Posts"
     url: /posts/
+  - title: "Categories"
+    url: /categories/
   - title: "Youtube"
     url: https://www.youtube.com/channel/UCAH-4bnQb4ws8VEWj3vWreA
   - title: "Photos"
