@@ -1,22 +1,14 @@
 # main links
 main:
-  - title: "About"
+  - title: "About 关于TCCAA"
     url: /about/
-  - title: "Posts"
+  - title: "Posts 公告"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Youtube"
-    url: https://www.youtube.com/channel/UCAH-4bnQb4ws8VEWj3vWreA
-  - title: "Photos"
+  - title: "Photos 相册"
     url: /photos/
-  - title: "Archived website"
+  - title: "Youtube 频道"
+    url: https://www.youtube.com/channel/UCAH-4bnQb4ws8VEWj3vWreA
+  - title: "Archived website 旧版网站入口"
     url: https://tccaanet.wixsite.com/tccaa_new/home/
-  - title: "English"
-    url: /
-    lang: en
-    classes: "lang-toggle"
-  - title: "中文"
-    url: /zh/
-    lang: zh
-    classes: "lang-toggle"
+  - title: "Categories 分类"
+    url: /categories/

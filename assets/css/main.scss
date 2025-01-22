@@ -7,16 +7,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.lang-toggle {
-    font-weight: bold;
-    margin-left: 10px;
-  }
-  
-  .lang-toggle:hover {
-    background-color: #d3d3d3;
-    color: #fff;
-  }
-
 .page__hero--overlay {
   position: relative;
   width: 100%; 
@@ -30,3 +20,22 @@ search: false
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
   }
+
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #c1c2d0;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    width: 200px; /* Set a fixed width for all buttons */
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+  
+  .btn:hover {
+    background-color: #f2f4f6; 
+  }
+  

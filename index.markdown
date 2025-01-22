@@ -8,11 +8,11 @@ header:
   overlay_filter: "0" # Opacity value from 0 to 1
   overlay_image: /assets/images/header.png # Path to your image
 ---
-### Pinned Posts
+### Pinned Posts 置顶公告
 
 <img src="/assets/images/events/2025_SF_en.JPG" alt="Centered Image" style="display: block; margin: 0 auto;" width="400">
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts 近期动态" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -26,3 +26,4 @@ header:
 </div>
 
 {% include paginator.html %}
+
