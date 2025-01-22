@@ -12,10 +12,11 @@ permalink: /
 <img src="/assets/images/events/2025_SF_en.JPG" alt="Centered Image" style="display: block; margin: 0 auto;" width="400">
 
 ### Event Calendar 活动日程
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&src=dGNjYWFuZXRAZ21haWwuY29t&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&src=dGNjYWFuZXRAZ21haWwuY29t&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts 近期动态" }}</h3>
-
+### Recent Posts 近期动态
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
