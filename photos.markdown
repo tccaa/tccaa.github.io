@@ -26,6 +26,22 @@ header:
   <p><a href="https://photos.app.goo.gl/d4aKPDjmuSehrbJ26" target="_blank">2019 Mother's Day</a></p>
 </div>
 
+<!-- Album 3 -->
+<div style="text-align: center;">
+  <a href="https://photos.app.goo.gl/oYLqtuFL7VKsrC6H8" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOY0GtvJMBJQuNNv5kJZdY9nJoC22ABPQ6AMCzkWFpqV7nYtzTQBpsZZJ5q3HCMGBYyhpIRbgXJKWIE-ZWGQidPQ2OR2quvmcbSoi4RBPQblTmt9yM82sXfifxbZr1Kjy4ei3BUME10fBbFFS1E_XNBSw=w2543-h1907-s-no-gm?authuser=0" alt="2019 Asian Awareness Month" style="width: 200px; height: 150px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </a>
+  <p><a href="https://photos.app.goo.gl/oYLqtuFL7VKsrC6H8" target="_blank">2019 Asian Awareness Month</a></p>
+</div>
+
+<!-- Album 4 -->
+<div style="text-align: center;">
+  <a href="https://photos.app.goo.gl/sWtTgjWCGPUfpsLo6" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOX50DCiPUJbHMR7RZtDYpXdDDIc_HzmMfY4KlwPDbwsADv-tatpDF8tTf18YcAbY-AelURYcS9xShetBv9x_De6yxE3MmCvnsn4VY28uj_5Y4NjLwhhzAwfEneQCIcSnDSApPCLH0A3r0fGsbCbyZB=w1430-h1907-s-no-gm?authuser=0" alt="2019 Chinese Painting Workshop" style="width: 200px; height: 150px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </a>
+  <p><a href="https://photos.app.goo.gl/sWtTgjWCGPUfpsLo6" target="_blank">2019 Chinese Painting Workshop</a></p>
+</div>
+
 <!-- Add more albums as needed -->
 
 </div>
