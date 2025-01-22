@@ -15,7 +15,7 @@ permalink: /about/
 
 <p></p>
 
-# Brief History of the Tri-Cities Chinese Community
+# A Brief History of the Tri-Cities Chinese Community
 
 Chinese immigration to the Tri-Cities began in the early 1970s, following the U.S. Atomic Energy Commission’s decision to build the Fast Flux Test Facility (FFTF). Since then, the community has grown steadily, with significant expansion in the 1990s as waves of engineers, scientists, and other professionals made the Tri-Cities their home. Employers like the Pacific Northwest National Laboratory (PNNL) and other local industries have attracted newcomers and provided opportunities for growth.
 
@@ -36,7 +36,7 @@ The Tri-Cities Chinese American Association (TCCAA), established in 1975, was fo
 
 # 三镇华人简史
 
-第一波華人移民到三鎮地區始於70年代早期，就在美國原子委員會決定建造FFTF之後；從此華人在三鎮社區裡穩定地成長。到了90年代初期，隨著越來越多的中國工程師、科學家、博士後研究者和其他專業人士選擇在三鎮定居，華人社區開始迅速壯大。當地的雇主，如太平洋西北國家實驗室（PNNL）和其他產業，也為新移民提供了眾多就業機會，吸引了更多人來到這裡。
+第一波華人移民到三鎮地區始於70年代早期，就在美國原子委員會決定建造FFTF之後；從此華人在三鎮社區裡穩定地成長。到了90年代初期，隨著越來越多的中國工程師、科學家、和其他專業人士選擇在三鎮定居，華人社區開始迅速壯大。當地的雇主，如西北太平洋國家實驗室（PNNL）和其他企業，也為新移民提供了眾多就業機會，吸引了更多人來到這裡。
 
 近年來移居三鎮的年輕一代，主要來自中國大陸、台灣、香港與東南亞。他們懷著滿腔熱情和希望來到這裡，建立家园，並發現三鎮是個充滿機會、適合建立社區和撫育家庭的理想之地。
 
