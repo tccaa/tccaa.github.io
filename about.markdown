@@ -15,19 +15,15 @@ permalink: /about/
 
 <p></p>
 
-# Brief History of the Tri-Cities Chinese Community
+# A Brief History of the Tri-Cities Chinese Community
 
-The first wave of Chinese emigration to Tri-Cites started in early 70s, right after US atomic commission decision of building the FFTF. Ever since, the Tri-Cities Chinese community has grown steadily.  The proliferation of the Tri-Cities Chinese community started in early 90s. A wave after another of Chinese engineers, scientists, post-doctors and other professionals have found their homes in Tri-Cities.
+Chinese immigration to the Tri-Cities began in the early 1970s, following the U.S. Atomic Energy Commission’s decision to build the Fast Flux Test Facility (FFTF). Since then, the community has grown steadily, with significant expansion in the 1990s as waves of engineers, scientists, and other professionals made the Tri-Cities their home. Employers like the Pacific Northwest National Laboratory (PNNL) and other local industries have attracted newcomers and provided opportunities for growth.
 
-The first Chinese generation in Tri-Cities, most of them are from Taiwan and Hong Kong, are near retirement. Their kids have grown up. The majority of them have finished high education and entered the society. Among them are doctors, attorneys, engineers, scientists, educators, etc. That is a pure reflection of thousands of years of Chinese tradition on childhood education.
-
-The new generation of Tri-Cities Chinese is mostly from Mainland, Taiwan, Hong Kong, and South-East Asia. They come here with passion for success and prosperity. Some of the new comers may start with tenuous love of the area because the Tri-Cities is relatively small and remote. But soon they discovered that the area is full of opportunity and a great place for raising their kids. Many Tri-Cities Chinese have found their homes here quickly and most of the Tri-Cities Chinese professionals have succeeded in their endeavors for career growth. The Chinese tradition of overwhelming tenacity and assiduous attention to work and family are often rewarded well here in Tri-Cities.
+The newer generation, coming from Mainland China, Taiwan, Hong Kong, and Southeast Asia, brings ambition and a commitment to success. They have found the Tri-Cities to be an ideal place for opportunity, community, and family life.
 
 # Tri-Cities Chinese American Association
 
-Tri-Cities is the place with a galaxy of talents. Many Chinese kids have made highest scholastic achievements. In the mean time, they also demonstrated fantastic music and artistic talents. Many adults and parents have also unfolded nearly professional dancing and singing aptitudes. To accommodate the rapid growth of Chinese community, Tri-Cities Chinese American Association (TCCAA) was established in 1975. The mission of the TCCAA is to improve the communication, to forge the friendship and camaraderie between the members, to promote the Chinese American cultural exchange, and to make the local community to have better understanding of Chinese society and Chinese culture.
-
-The performances in each year’s moon festival and spring festival are the window opportunities for cultural exchange with local community and the star search for new talents. Please join the TCCAA and help us to grow and promote the association.
+The Tri-Cities Chinese American Association (TCCAA), established in 1975, was founded to support the rapid growth of the Chinese community in the Tri-Cities area during the 1970s. TCCAA's mission is to enhance communication, foster friendships and connections among members, promote cultural exchange, and help the local community gain a deeper understanding of Chinese culture and society.
 
 <div style="position: relative; width: 100%; max-width: 600px; margin: 0 auto;">
    <div style="padding-top: 56.25%; position: relative; overflow: hidden;">
@@ -40,16 +36,10 @@ The performances in each year’s moon festival and spring festival are the wind
 
 # 三镇华人简史
 
-第一波華人移民到三鎮地區始於70年代早期，就在美國原子委員會決定建造FFTF之後；從此華人在三鎮社區裡穩定地成長。三鎮華人社區的發展壯大始於90年代初期，一批接著一批的中國工程師、科學家、博士後研究者和其他的專業人員紛紛在三鎮地區建立起家園。
+第一波華人移民到三鎮地區始於70年代早期，就在美國原子委員會決定建造FFTF之後；從此華人在三鎮社區裡穩定地成長。到了90年代初期，隨著越來越多的中國工程師、科學家、和其他專業人士選擇在三鎮定居，華人社區開始迅速壯大。當地的雇主，如西北太平洋國家實驗室（PNNL）和其他企業，也為新移民提供了眾多就業機會，吸引了更多人來到這裡。
 
-在三鎮的第一代中國人大部分來自台灣與香港，現在幾乎都已退休，而他們的下一代也都已長大成人，大部份都完成高等教育並進入社會工作。他們當中有醫生、律師、工程師、科學家、教育家等等。這完全體現出中國幾千年來注重孩童教育的傳統美德。    
-
-近來到三鎮年輕一代的中國人，大都來自中國大陸、台灣、香港與東南亞地區。他們滿懷著熱情與希望來到這裡，剛開始有些人不喜歡這個鞭長莫及的小鎮，但很快地發現這個地方充滿生機，並且是撫育孩子的絕佳環境。許多三鎮華人很快在此建立起家園並且在事業上步步高昇。在此更彰顯出中國人專注事業和家庭上堅忍勤奮的傳統特性。
+近年來移居三鎮的年輕一代，主要來自中國大陸、台灣、香港與東南亞。他們懷著滿腔熱情和希望來到這裡，建立家园，並發現三鎮是個充滿機會、適合建立社區和撫育家庭的理想之地。
 
 # 三鎮華美協會
 
-三鎮是個人文粹集的地方，很多華人子弟不但在學校裡表現優異，同時也展露出音樂與藝術的才華；他們的父母也在若干次華人及社區活動中展現出幾近專業水平的舞蹈與歌聲。鑑於華人社區的快速成長，三鎮華美協會於1975年成立，其宗旨在增進會員之間的溝通與友誼，促進中美的文化交流，並讓本地人士能更進一步了解中國人的社會與文化。
-
-每年的中秋節與春節晚會的表演是與當地社區間的文化交流與發掘才藝的一個機會。請加入三鎮華美協會(TCCAA) 並與我們一起茁壯成長。
-
-
+為了支持華人社區的快速成長，三鎮華美協會（TCCAA）於1975年成立。協會的宗旨是增強會員之間的溝通與友誼，促進中美文化交流，並幫助當地社區更深入了解中國文化和社會。每年的春節晚會的表演是與當地社區間的文化交流與發掘才藝的一個重要機會。請加入三鎮華美協會並與我們一起茁壯成長。
