@@ -17,7 +17,7 @@ header:
         <img src="/assets/images/events/2025_SF_zh.JPG" class="d-block w-100" alt="Slide 1">
       </div>
       <div class="carousel-item">
-        <img src="https://lh3.googleusercontent.com/pw/AP1GczNB-ibXPlOE0AcrKJzT1VumyuH5Fo7Nq-8jxj-akmCj2ALxjL8GXjk62JraXe9wopL3AXW57S2SE7AJkQZhOb3njjzd4IFtEtk3eSOfPb-Ru2YxPn9jq0Y-fvl4SXs0n1XdG_g2W3eLlPymtItFFgmNMw=w2264-h1698-s-no-gm?authuser=0" class="d-block w-100" alt="Slide 2">
+        <img src="/assets/images/events/2025_SF_en.JPG" class="d-block w-100" alt="Slide 2">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
