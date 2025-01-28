@@ -9,8 +9,27 @@ header:
   overlay_image: /assets/images/header.png # Path to your image
 ---
 
-### Pinned Posts 置顶公告
-<img src="/assets/images/events/2025_SF_en.JPG" alt="Centered Image" style="display: block; margin: 0 auto;" width="400">
+<!-- Carousel -->
+<div class="carousel-container">
+  <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/assets/images/events/2025_SF_zh.JPG" class="d-block w-100" alt="Slide 1">
+      </div>
+      <div class="carousel-item">
+        <img src="https://lh3.googleusercontent.com/pw/AP1GczNB-ibXPlOE0AcrKJzT1VumyuH5Fo7Nq-8jxj-akmCj2ALxjL8GXjk62JraXe9wopL3AXW57S2SE7AJkQZhOb3njjzd4IFtEtk3eSOfPb-Ru2YxPn9jq0Y-fvl4SXs0n1XdG_g2W3eLlPymtItFFgmNMw=w2264-h1698-s-no-gm?authuser=0" class="d-block w-100" alt="Slide 2">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
 
 ### Event Calendar 活动日程
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -30,4 +49,3 @@ header:
 </div>
 
 {% include paginator.html %}
-

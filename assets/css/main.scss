@@ -38,4 +38,43 @@ search: false
   .btn:hover {
     background-color: #f2f4f6; 
   }
+
+  .carousel-container {
+    width: 50%; /* Adjust this value to make the carousel smaller */
+    margin: 0 auto 2rem auto; /* Center the carousel and add margin at the bottom */
+  }
   
+  .carousel-item img {
+    width: auto;
+    height: 100%; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the area without stretching */
+  }
+  
+  // Add this to your main.scss file
+body {
+  font-size: 17px !important; /* Force the base font size */
+}
+
+h1 {
+  font-size: 1.5rem !important; /* Force the font size for h1 */
+}
+
+h2 {
+  font-size: 1.5rem !important; /* Force the font size for h2 */
+}
+
+h3 {
+  font-size: 1.2rem !important; /* Force the font size for h3 */
+}
+
+h4 {
+  font-size: 1.25rem !important; /* Force the font size for h4 */
+}
+
+h5 {
+  font-size: 1rem !important; /* Force the font size for h5 */
+}
+
+h6 {
+  font-size: 1rem !important; /* Force the font size for h6 */
+}
