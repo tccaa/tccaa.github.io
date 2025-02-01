@@ -2,7 +2,7 @@
 layout: post
 title: |
   2025 Membership Registration is Open 
-  2025年度华美协会会员开放注册
+  2025 年度华美协会会员开放注册
 date: 2025-01-31 01:48:18 -0800
 categories: Event
 header:
