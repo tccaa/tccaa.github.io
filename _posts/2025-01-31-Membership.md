@@ -12,7 +12,7 @@ header:
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/events/membership.JPG" alt="Image 1" style="display: inline-block; margin: 10px; width: 400px; height: auto;">
+  <img src="/assets/images/events/Membership.JPG" alt="Image 1" style="display: inline-block; margin: 10px; width: 400px; height: auto;">
 </div>
 
 TCCAA will open this year's membership registration live at the Spring Festival Gala on February 1. Everyone is welcome to join!

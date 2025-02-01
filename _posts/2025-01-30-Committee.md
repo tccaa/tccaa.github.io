@@ -11,6 +11,9 @@ header:
   overlay_image: /assets/images/header.png # Path to your image
 ---
 
-<iframe width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="assets/files/2025_Committee.pdf">Download PDF</a>
-</iframe>
+<div style="text-align: center;">
+  <img src="/assets/images/committee/slide-0.png" alt="Slide 1" style="max-width:100%; height:auto;">
+  <img src="/assets/images/committee/slide-1.png" alt="Slide 2" style="max-width:100%; height:auto;">
+  <img src="/assets/images/committee/slide-2.png" alt="Slide 3" style="max-width:100%; height:auto;">
+  <img src="/assets/images/committee/slide-3.png" alt="Slide 4" style="max-width:100%; height:auto;">
+</div>
