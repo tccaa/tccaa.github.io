@@ -9,32 +9,10 @@ header:
   overlay_image: /assets/images/header.png # Path to your image
 ---
 
-<!-- Carousel -->
-<div class="carousel-container">
-  <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="/assets/images/events/2025_SF_zh.JPG" class="d-block w-100" alt="Slide 1">
-      </div>
-      <div class="carousel-item">
-        <img src="/assets/images/events/2025_SF_en.JPG" class="d-block w-100" alt="Slide 2">
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-</div>
-
-### Event Calendar 活动日程
-<div style="display: flex; justify-content: center; align-items: center;">
-    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&src=dGNjYWFuZXRAZ21haWwuY29t&color=%234285F4" style="border:solid 1px #777" width="400" height="400" frameborder="0" scrolling="no"></iframe>
-</div>
+### Pinned Posts 置顶公告
+<a href="/event/2025/01/08/2025_NewYear" target="_blank">
+  <img src="/assets/images/events/2025_Spring_Flyer.001.png" alt="Centered Image" style="display: block; margin: 0 auto;" width="800">
+</a>
 
 ### Recent Posts 近期动态
 {% if paginator %}
@@ -49,3 +27,8 @@ header:
 </div>
 
 {% include paginator.html %}
+
+### Event Calendar 活动日程
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&src=dGNjYWFuZXRAZ21haWwuY29t&color=%234285F4" style="border:solid 1px #777" width="400" height="400" frameborder="0" scrolling="no"></iframe>
+</div>
