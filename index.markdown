@@ -3,8 +3,7 @@ layout: splash
 title:
 lang: en
 permalink: /
-header:
-  overlay_color: "#000" # Overlay color in hex format
+overlay_color: "#000" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
   overlay_image: /assets/images/header.png # Path to your image
 ---
@@ -12,13 +11,9 @@ header:
 <h3 style="text-align: center;">
   Pinned Posts 置顶公告 </h3>
 
-  <a href="https://photos.app.goo.gl/dLEwmXaRKzRgC78K8" target="_blank">
-    <img src="https://lh3.googleusercontent.com/pw/AP1GczMLFu6xvHuNo82VNv1OdFV3wJiEY2LrL1bzFjDsojBRgx94Hh36jXHJ5pHXCRUEchhhf2Kdy727OZJ9OzgWIfU6cCBvu85lMvX6xS-2rY-KBgLFKYyZ38c6hfjLPARHkzPOSNcZOlY9iCd7DF-8UvxS9A=w1898-h1266-s-no-gm?authuser=0" alt="Centered Image" style="display: block; margin: 0 auto;" width="800">
+  <a href="https://www.tccaa.org/event/2025/04/01/Mothers_Day/" target="_blank">
+    <img src="https://www.tccaa.org/assets/images/events/2025_Mothers_Day_Flyer.png" alt="Centered Image" style="display: block; margin: 0 auto;" width="500">
   </a>
-
-<h2 style="text-align: center;">
-  2025 Lunar New Year Gala <a href="https://photos.app.goo.gl/dLEwmXaRKzRgC78K8">Photos</a> and <a href="https://youtu.be/zbVs_Sa7SBA?si=71FWizcov61Ktm5i">Video</a> are Online
-</h2>
 
 <h3 style="text-align: center;">
   Recent Posts 近期动态 </h3>
