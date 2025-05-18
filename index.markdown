@@ -11,9 +11,10 @@ overlay_color: "#000" # Overlay color in hex format
 <h3 style="text-align: center;">
   Pinned Posts 置顶公告 </h3>
 
-  <a href="https://www.tccaa.org/event/2025/04/01/Mothers_Day/" target="_blank">
-    <img src="https://www.tccaa.org/assets/images/events/2025_Mothers_Day_Flyer.png" alt="Centered Image" style="display: block; margin: 0 auto;" width="500">
-  </a>
+  <div style="text-align: center;">
+  <img src="https://www.tccaa.org/assets/images/events/2025_DuanWu_En.JPG" alt="Dragon Boat Festival Flyer - English" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
+  <img src="https://www.tccaa.org/assets/images/events/2025_DuanWu_Zh.JPG" alt="端午節盛宴傳單 - 中文" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
+  </div>
 
 <h3 style="text-align: center;">
   Recent Posts 近期动态 </h3>
