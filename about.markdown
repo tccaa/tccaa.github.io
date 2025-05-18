@@ -1,10 +1,12 @@
 ---
-layout: default
-title:  About TCCAA
+layout: splash
+title: About TCCAA
+lang: en
 permalink: /about/
+overlay_color: "#000" # Overlay color in hex format
+  overlay_filter: "0" # Opacity value from 0 to 1
+  overlay_image: /assets/images/header.png # Path to your image
 ---
-<div class="page__hero" style="background-image: url('/assets/images/header.png'); height: 200px; background-size: cover; background-position: center;">
-</div>
 
 <div style="text-align: center;">
   <a href="mailto:tccaanet@gmail.com" class="btn">Contact Us 联系我们</a>
