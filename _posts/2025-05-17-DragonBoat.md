@@ -26,7 +26,7 @@ Location: Haward Amon Park South Shelter, 500 Amon Park Dr, Richland
 Special Offers: Free Zongzi for TCCAA Members! Pizza will be available for purchase.
 We look forward to celebrating with you!
 
-三城華人協會 (TCCAA) 盛情邀請您與我們一同歡慶端午佳節！
+三镇華人協會 (TCCAA) 盛情邀請您與我們一同歡慶端午佳節！
 
 讓我們在品嚐傳統美食的同時，共同弘揚中華文化，孕育三鎮華人社群蒸蒸日上。這是一個體驗中華文化、聯絡社區情誼、共創愉快回憶的絕佳機會。
 
