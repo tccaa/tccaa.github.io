@@ -36,3 +36,6 @@ gem "minimal-mistakes-jekyll"
 
 gem "jekyll-remote-theme"
 
+gem "csv"
+gem "base64"
+
