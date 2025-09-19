@@ -3,17 +3,17 @@ layout: splash
 title:
 lang: en
 permalink: /
-overlay_color: "#000" # Overlay color in hex format
+header:
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 <h3 style="text-align: center;">
   Pinned Posts 置顶公告 </h3>
 
   <div style="text-align: center;">
-  <img src="https://www.tccaa.org/assets/images/events/2025_DuanWu_En.JPG" alt="Dragon Boat Festival Flyer - English" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
-  <img src="https://www.tccaa.org/assets/images/events/2025_DuanWu_Zh.JPG" alt="端午節盛宴傳單 - 中文" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
+  <img src="https://www.tccaa.org/assets/images/events/2025/2025Moon_Fest.JPG" alt="2025 Mid Autumn Festival" style="display: inline-block; margin: 10px; width: 600px; height: auto; max-width: 90%;">
   </div>
 
 <h3 style="text-align: center;">

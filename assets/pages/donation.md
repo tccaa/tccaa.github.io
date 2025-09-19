@@ -2,9 +2,9 @@
 layout: post
 title: "Donors 捐款赞助名录"
 header:
-  overlay_color: "#000" # Overlay color in hex format
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 We sincerely thank every individual and business that contributed their money and effort to TCCAA. The success of our Association is made possible by people like you!

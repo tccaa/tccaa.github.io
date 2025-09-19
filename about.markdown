@@ -3,9 +3,10 @@ layout: splash
 title: About TCCAA
 lang: en
 permalink: /about/
-overlay_color: "#000" # Overlay color in hex format
+header:
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 <div style="text-align: center;">

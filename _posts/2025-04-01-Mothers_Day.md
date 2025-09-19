@@ -6,13 +6,13 @@ title: |
 date: 2025-04-01 01:48:18 -0800
 categories: Event
 header:
-  overlay_color: "#000" # Overlay color in hex format
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/events/2025_Mothers_Day_Flyer.png" alt="Image 1" style="display: inline-block; margin: 10px; width: 400px; height: auto;">
+  <img src="/assets/images/events/2025/2025_Mothers_Day_Flyer.png" alt="Image 1" style="display: inline-block; margin: 10px; width: 400px; height: auto;">
 </div>
 
 TCCAA warmly invites you to our annual Mother’s Day Celebration and Scholarship Award Ceremony on May 11. Come celebrate with us as we honor mothers in our community and recognize the achievements of outstanding graduating seniors.

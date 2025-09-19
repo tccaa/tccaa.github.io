@@ -6,9 +6,9 @@ title: |
 date: 2025-01-30 01:48:18 -0800
 categories: Organization
 header:
-  overlay_color: "#000" # Overlay color in hex format
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 <div style="text-align: center;">

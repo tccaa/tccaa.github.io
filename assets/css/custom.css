@@ -1,0 +1,127 @@
+/* Custom CSS for TCCAA website header improvements */
+
+.page__hero--overlay {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Use aspect ratio to maintain proper proportions */
+  aspect-ratio: 3.08 / 1;
+  min-height: 150px;
+  max-height: 300px;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Responsive adjustments for different screen sizes */
+@media (max-width: 1200px) {
+  .page__hero--overlay {
+    max-height: 250px;
+  }
+}
+
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    max-height: 200px;
+    min-height: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .page__hero--overlay {
+    max-height: 150px;
+    min-height: 100px;
+    aspect-ratio: 2.5 / 1; /* Slightly taller on mobile */
+  }
+}
+
+/* Ensure content in hero section is properly positioned */
+.page__hero--overlay .wrapper {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+/* Improve readability of text over the header image */
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+/* Ensure the header scales properly across all container widths */
+@media (min-width: 1400px) {
+  .page__hero--overlay {
+    max-height: 350px;
+  }
+}
+
+/* For very wide screens, prevent the header from becoming too tall */
+@media (min-width: 1800px) {
+  .page__hero--overlay {
+    max-height: 400px;
+  }
+}
+
+/* Fix posts index page width to match individual post pages */
+.layout--posts #main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.layout--posts .page__content {
+  max-width: none;
+  width: 100%;
+  margin: 0;
+}
+
+.layout--posts .archive {
+  max-width: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.layout--posts .entries-list {
+  max-width: none;
+  width: 100%;
+}
+
+.layout--posts .list__item {
+  max-width: none;
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+
+/* Ensure posts list entries have proper spacing and width */
+.layout--posts .archive__item {
+  width: 100%;
+  max-width: none;
+}
+
+.layout--posts .archive__item-title {
+  font-size: 1.25em;
+  margin-bottom: 0.5rem;
+}
+
+.layout--posts .archive__item-excerpt {
+  margin-bottom: 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .layout--posts #main {
+    padding: 0 1rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  .layout--posts #main {
+    max-width: 1400px;
+  }
+}

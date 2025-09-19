@@ -6,14 +6,14 @@ title: |
 date: 2025-05-17 01:48:18 -0800
 categories: Event
 header:
-  overlay_color: "#000" # Overlay color in hex format
+  overlay_color: "transparent" # Overlay color in hex format
   overlay_filter: "0" # Opacity value from 0 to 1
-  overlay_image: /assets/images/header.png # Path to your image
+  overlay_image: /assets/images/header_tighter.PNG # Path to your image
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/events/2025_DuanWu_En.JPG" alt="Dragon Boat Festival Flyer - English" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
-  <img src="/assets/images/events/2025_DuanWu_Zh.JPG" alt="端午節盛宴傳單 - 中文" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
+  <img src="/assets/images/events/2025/2025_DuanWu_En.JPG" alt="Dragon Boat Festival Flyer - English" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
+  <img src="/assets/images/events/2025/2025_DuanWu_Zh.JPG" alt="端午節盛宴傳單 - 中文" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 48%;">
 </div>
 
 The Tri-Cities Chinese American Association (TCCAA) invites you to celebrate the Dragon Boat Festival!
