@@ -13,7 +13,8 @@ header:
   Pinned Posts 置顶公告 </h3>
 
   <div style="text-align: center;">
-  <img src="https://www.tccaa.org/assets/images/events/2025/2025Moon_Fest.JPG" alt="2025 Mid Autumn Festival" style="display: inline-block; margin: 10px; width: 600px; height: auto; max-width: 90%;">
+  <img src="/assets/images/events/2026/2026_NewYear_En.jpg" alt="2026 Lunar New Year English Poster" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
+  <img src="/assets/images/events/2026/2026_NewYear_Zh.jpg" alt="2026 Lunar New Year Chinese Poster" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
   </div>
 
 <h3 style="text-align: center;">
