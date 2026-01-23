@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TCCAA
+title: 三镇华美协会 TCCAA
+logo: /assets/images/logo.avif
 email: tccaanet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for TCCAA
