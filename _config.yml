@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 三镇华美协会 TCCAA
+masthead_title: " "
 logo: /assets/images/logo.avif
 email: tccaanet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
