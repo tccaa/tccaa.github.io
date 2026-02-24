@@ -12,10 +12,11 @@ header:
 <h3 style="text-align: center;">
   Pinned Posts 置顶公告 </h3>
 
-  <div style="text-align: center;">
-  <img src="/assets/images/events/2026/2026_NewYear_En.jpg" alt="2026 Lunar New Year English Poster" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
-  <img src="/assets/images/events/2026/2026_NewYear_Zh.jpg" alt="2026 Lunar New Year Chinese Poster" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
-  </div>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk" style="display: inline-block; padding: 15px 30px; background-color: #c0392b; color: white; text-decoration: none; border-radius: 8px; font-size: 1.2em;">
+    🎥 Watch 2026 Lunar New Year Gala Video / 观看2026春节联欢视频
+  </a>
+</div>
 
 <h3 style="text-align: center;">
   Recent Posts 近期动态 </h3>
