@@ -13,9 +13,11 @@ header:
   Pinned Posts 置顶公告 </h3>
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk" style="display: inline-block; padding: 15px 30px; background-color: #c0392b; color: white; text-decoration: none; border-radius: 8px; font-size: 1.2em;">
-    🎥 Watch 2026 Lunar New Year Gala Video / 观看2026春节联欢视频
+  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk">
+    <img src="https://img.youtube.com/vi/FCUGRK_6FPk/hqdefault.jpg" alt="2026 Lunar New Year Gala Video" style="width: 480px; max-width: 90%; height: auto; border-radius: 8px;">
   </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk">Watch 2026 Lunar New Year Gala Video / 观看2026春节联欢视频</a>
 </div>
 
 <h3 style="text-align: center;">
