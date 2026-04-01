@@ -12,13 +12,9 @@ header:
 <h3 style="text-align: center;">
   Pinned Posts 置顶公告 </h3>
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk">
-    <img src="https://img.youtube.com/vi/FCUGRK_6FPk/hqdefault.jpg" alt="2026 Lunar New Year Gala Video" style="width: 480px; max-width: 90%; height: auto; border-radius: 8px;">
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=FCUGRK_6FPk">Watch 2026 Lunar New Year Gala Video / 观看2026春节联欢视频</a>
-</div>
+  <div style="text-align: center;">
+  <img src="/assets/images/events/2026/2026_Mothers_Day_Flyer-001.jpg" alt="2026 Mother's Day Flyer" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
+  </div>
 
 <h3 style="text-align: center;">
   Recent Posts 近期动态 </h3>
