@@ -1,8 +1,8 @@
 ---
 layout: post
 title: |
-  2026 Mother's Day Celebration
-  2026 母亲节
+  2026 Mother's Day Celebration and Scholarship Awarding Ceremony
+  2026 母亲节暨高中毕业生奖学金颁奖典礼
 date: 2026-04-01 01:00:00 -0800
 categories: Event
 header:
