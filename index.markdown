@@ -13,7 +13,8 @@ header:
   Pinned Posts 置顶公告 </h3>
 
   <div style="text-align: center;">
-  <img src="/assets/images/events/2026/2026_Mothers_Day_Flyer-001.jpg" alt="2026 Mother's Day Flyer" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
+  <img src="/assets/images/events/2026/2026_DuanWu_En.JPG" alt="2026 Dragon Boat Festival Flyer - English" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
+  <img src="/assets/images/events/2026/2026_DuanWu_Zh.JPG" alt="2026 端午節盛宴傳單 - 中文" style="display: inline-block; margin: 10px; width: 400px; height: auto; max-width: 45%;">
   </div>
 
 <h3 style="text-align: center;">
